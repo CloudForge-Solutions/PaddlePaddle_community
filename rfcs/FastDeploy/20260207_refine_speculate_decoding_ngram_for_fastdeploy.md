@@ -2,7 +2,7 @@
 
 | 任务名称 | 为 FastDeploy 支持投机解码功能 |
 |------|------|
-| 提交作者 | cloudforge1 |
+| 提交作者 | jony-cloudforge |
 | 提交时间 | 2026-04-04 |
 | 版本号 | V2.0 |
 | 文件名 | 20260207_refine_speculate_decoding_ngram_for_fastdeploy.md |

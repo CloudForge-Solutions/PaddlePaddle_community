@@ -2,7 +2,7 @@
 
 | 任务名称 | 【Hackathon 10th Spring No.47】为 FastDeploy 新增 MiniMax-M1 模型 |
 |------|------|
-| 提交作者 | bobby-cloudforge |
+| 提交作者 | jony-cloudforge |
 | 提交时间 | 2026-04-20 |
 | 版本号 | V1.0 |
 | 文件名 | 20250916_add_minimax_m1_for_fastdeploy.md |

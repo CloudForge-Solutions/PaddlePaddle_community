@@ -2,7 +2,7 @@
 
 | 任务名称 | 【Hackathon 10th Spring No.48】为 FastDeploy 新增 SD3 / Flux 扩散模型 |
 |------|------|
-| 提交作者 | r-cloudforge |
+| 提交作者 | jony-cloudforge |
 | 提交时间 | 2026-07-13 |
 | 版本号 | V2.0 |
 | 文件名 | 20260708_add_sd3_flux_diffusion_models_for_fastdeploy.md |

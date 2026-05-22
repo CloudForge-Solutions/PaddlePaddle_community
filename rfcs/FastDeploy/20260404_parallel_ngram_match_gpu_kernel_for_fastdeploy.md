@@ -2,7 +2,7 @@
 
 | 任务名称 | 【Hackathon 10th Spring No.49】为 FastDeploy 支持投机解码功能 |
 |------|------|
-| 提交作者 | cloudforge1 |
+| 提交作者 | jony-cloudforge |
 | 提交时间 | 2026-04-04 |
 | 版本号 | V2.0 |
 | 依赖飞桨版本 | develop |
